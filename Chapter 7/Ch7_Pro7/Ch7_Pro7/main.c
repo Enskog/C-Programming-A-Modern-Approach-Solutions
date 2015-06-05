@@ -72,7 +72,13 @@ int main(void)
     
     GCD = comb_m;
     
-    printf("In lowest terms: %d/%d\n", (temp_m/GCD), (temp_n/GCD));
+    if (temp_n/GCD == 1)
+        printf("In lowest terms %d/%d %c %d/%d = %d\n", m1, n1, ch, m2, n2, (temp_m/GCD));
+    else
+    {
+        printf("In lowest terms %d/%d %c %d/%d = %d/%d\n", m1, n1, ch, m2, n2, (temp_m/GCD), (temp_n/GCD));
+        printf("Expressed in decimal form: %f\n", ((float)(temp_m/GCD)/(float)(temp_n/GCD)));
+    }
     
     return 0;
     
