@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F95FC28-B8EC-4743-BF1E-B849EDF9467E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ch7_Pro8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20AB45AA18D7A4B7DFA50493AA43AEA3B9F9E000</key>
+		<string>https://github.com/Enskog/C-Programming-A-Modern-Approach-Solutions</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Chapter 7/Ch7_Pro8/Ch7_Pro8.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20AB45AA18D7A4B7DFA50493AA43AEA3B9F9E000</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Enskog/C-Programming-A-Modern-Approach-Solutions</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20AB45AA18D7A4B7DFA50493AA43AEA3B9F9E000</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20AB45AA18D7A4B7DFA50493AA43AEA3B9F9E000</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C-Programming-A-Modern-Approach-Solutions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
